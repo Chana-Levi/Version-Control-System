@@ -1,0 +1,83 @@
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+H:\להגשה\Git\Git\bin\Debug\net7.0\Git.exe
+H:\להגשה\Git\Git\bin\Debug\net7.0\Git.deps.json
+H:\להגשה\Git\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+H:\להגשה\Git\Git\bin\Debug\net7.0\Git.dll
+H:\להגשה\Git\Git\bin\Debug\net7.0\Git.pdb
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.dll
+H:\להגשה\Git\Git\obj\Debug\net7.0\refint\Git.dll
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.pdb
+H:\להגשה\Git\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+H:\להגשה\Git\Git\obj\Debug\net7.0\ref\Git.dll
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.dll
+S:\ללאה\Git\Git\obj\Debug\net7.0\refint\Git.dll
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.pdb
+S:\ללאה\Git\Git\bin\Debug\net7.0\Git.exe
+S:\ללאה\Git\Git\bin\Debug\net7.0\Git.deps.json
+S:\ללאה\Git\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+S:\ללאה\Git\Git\bin\Debug\net7.0\Git.dll
+S:\ללאה\Git\Git\bin\Debug\net7.0\Git.pdb
+S:\ללאה\Git\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+S:\ללאה\Git\Git\obj\Debug\net7.0\ref\Git.dll
+D:\יום שני 01\Git\Git\bin\Debug\net7.0\Git.exe
+D:\יום שני 01\Git\Git\bin\Debug\net7.0\Git.deps.json
+D:\יום שני 01\Git\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+D:\יום שני 01\Git\Git\bin\Debug\net7.0\Git.dll
+D:\יום שני 01\Git\Git\bin\Debug\net7.0\Git.pdb
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.dll
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\refint\Git.dll
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.pdb
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+D:\יום שני 01\Git\Git\obj\Debug\net7.0\ref\Git.dll
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.dll
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\refint\Git.dll
+H:\להגשה\יום שני 01\Git\Git\obj\Debug\net7.0\Git.pdb
+D:\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.exe
+D:\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.deps.json
+D:\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+D:\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.dll
+D:\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.pdb
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.dll
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\refint\Git.dll
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.pdb
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+D:\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\ref\Git.dll
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.exe
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.deps.json
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.dll
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\bin\Debug\net7.0\Git.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.csproj.AssemblyReference.cache
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.dll
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\refint\Git.dll
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+C:\Users\97258\OneDrive\שולחן העבודה\היוםם\לוי חנה\להגשה\חדש יום שלישי 02.04\Git\Git\obj\Debug\net7.0\ref\Git.dll
